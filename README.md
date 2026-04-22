@@ -16,7 +16,7 @@ Tools:       Git, VS Code, Unity, Canva
  
  
 - 🔗 (https://evamatrix.github.io/Portfolio/)
-- 💼 Open to: [full-time]
+- 💼 Open to: full-time remote roles in graphic design, UX, and frontend!
  
 ## Best work
  
